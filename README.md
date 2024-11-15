@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h2 align="left">Hi 👋! My name is Abiraj and I'm a Reading Full-Stack Developer, from Jaffna</h2>
 
 ###
