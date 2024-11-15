@@ -6,6 +6,10 @@
 
 ###
 
+<div align="center"> <img src="https://streak-stats.demolab.com?user=ABIRAJ-JUNIOR&theme=radical&hide_border=false" height="165" alt="GitHub streak stats" /> </div>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
